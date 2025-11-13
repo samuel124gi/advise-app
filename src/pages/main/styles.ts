@@ -23,7 +23,7 @@ export const InnerContainer = styled.main`
   position: relative;
 `;
 
-export const TextContainer = styled.main`
+export const TextContainer = styled.div`
   gap: 24px;
   display: flex;
   flex-direction: column;
