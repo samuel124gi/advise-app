@@ -12,7 +12,7 @@ export const MainContainer = styled.div`
 export const InnerContainer = styled.main`
   width: 500px;
   max-width: 500px;
-  height: 332px;
+  padding: 70px 0px;
   justify-content: center;
   display: flex;
   flex-direction: column;
